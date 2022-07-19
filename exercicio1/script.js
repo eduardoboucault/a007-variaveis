@@ -11,6 +11,7 @@
 // console.log(typeof nome , typeof idade)
 
 //*D)
+
 //O tipo da variável nome apareceu string, devido as aspas como atribuição de tipo porém sem valor indicado.
 //O tipo da variável idade apareceu undefined, foi não foi atribuido nenhum valor à ela.
 
@@ -30,5 +31,6 @@ console.log(typeof nome , typeof idade)
 //E a variável let idade recebeu um novo valor de prompt que sempre recebe um string, ou seja, mudou seu valor original de undefined para string.
 
 //*G)
+
 let bemVindo = alert ("Olá " + nome + " você tem " + idade + " anos.")
 console.log("Olá " , nome , "você tem " , idade , "anos.")
